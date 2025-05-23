@@ -1,0 +1,875 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/privacy-notice",
+          "urlHash": "1f5bd206ee8443c50f84f1edcee1d5b3c3073254",
+          "uuid": "1f5bd206-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en",
+          "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+          "uuid": "7d2033e6-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/",
+          "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+          "uuid": "8dd95a42-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/cookie-policy",
+          "urlHash": "90ca235a59cf6842fc74025924d45d0aed243bf6",
+          "uuid": "90ca235a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/credits-photographiques",
+          "urlHash": "986d882cc4f39fc6db115d164aa52b8994273439",
+          "uuid": "986d882c-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/terms-of-use",
+          "urlHash": "9a8151b01b0dcedb56266d0369be5b088fd7f0f5",
+          "uuid": "9a8151b0-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/declaration-de-confidentialite",
+          "urlHash": "9df92675d58dc852ee1bb066266d97b2eda56f0e",
+          "uuid": "9df92675-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/conditions-dutilisation",
+          "urlHash": "af919b8735244067ee1b19720b9e5bf070aac418",
+          "uuid": "af919b87-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/politique-de-cookie",
+          "urlHash": "bc67e9e2fe8db143c0221443e6b0c54e7556b451",
+          "uuid": "bc67e9e2-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr",
+          "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+          "uuid": "ca147206-00-b821ec68cd7aa037e61949ba7655968a1160027b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/credits-photographiques",
+          "urlHash": "ddc4904bae40a8beaa05e28525c8d88a02b7f3c3",
+          "uuid": "ddc4904b-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/privacy-notice",
+          "urlHash": "1f5bd206ee8443c50f84f1edcee1d5b3c3073254",
+          "uuid": "1f5bd206-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-13-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en",
+          "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+          "uuid": "7d2033e6-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/",
+          "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+          "uuid": "8dd95a42-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/cookie-policy",
+          "urlHash": "90ca235a59cf6842fc74025924d45d0aed243bf6",
+          "uuid": "90ca235a-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/credits-photographiques",
+          "urlHash": "986d882cc4f39fc6db115d164aa52b8994273439",
+          "uuid": "986d882c-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/terms-of-use",
+          "urlHash": "9a8151b01b0dcedb56266d0369be5b088fd7f0f5",
+          "uuid": "9a8151b0-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/declaration-de-confidentialite",
+          "urlHash": "9df92675d58dc852ee1bb066266d97b2eda56f0e",
+          "uuid": "9df92675-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-13-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/conditions-dutilisation",
+          "urlHash": "af919b8735244067ee1b19720b9e5bf070aac418",
+          "uuid": "af919b87-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/politique-de-cookie",
+          "urlHash": "bc67e9e2fe8db143c0221443e6b0c54e7556b451",
+          "uuid": "bc67e9e2-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr",
+          "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+          "uuid": "ca147206-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/credits-photographiques",
+          "urlHash": "ddc4904bae40a8beaa05e28525c8d88a02b7f3c3",
+          "uuid": "ddc4904b-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/privacy-notice",
+          "urlHash": "1f5bd206ee8443c50f84f1edcee1d5b3c3073254",
+          "uuid": "1f5bd206-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/credits-photographiques",
+          "urlHash": "986d882cc4f39fc6db115d164aa52b8994273439",
+          "uuid": "986d882c-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/terms-of-use",
+          "urlHash": "9a8151b01b0dcedb56266d0369be5b088fd7f0f5",
+          "uuid": "9a8151b0-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/declaration-de-confidentialite",
+          "urlHash": "9df92675d58dc852ee1bb066266d97b2eda56f0e",
+          "uuid": "9df92675-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/conditions-dutilisation",
+          "urlHash": "af919b8735244067ee1b19720b9e5bf070aac418",
+          "uuid": "af919b87-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/credits-photographiques",
+          "urlHash": "ddc4904bae40a8beaa05e28525c8d88a02b7f3c3",
+          "uuid": "ddc4904b-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-04-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-04-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/credits-photographiques",
+          "urlHash": "986d882cc4f39fc6db115d164aa52b8994273439",
+          "uuid": "986d882c-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/credits-photographiques",
+          "urlHash": "ddc4904bae40a8beaa05e28525c8d88a02b7f3c3",
+          "uuid": "ddc4904b-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 4,
+      "source": "Embed",
+      "target": "Embed (embedVideo4)",
+      "key": "embedVideo4",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 5,
+      "source": "Embed",
+      "target": "Embed (embedVideo5)",
+      "key": "embedVideo5",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/privacy-notice",
+          "urlHash": "1f5bd206ee8443c50f84f1edcee1d5b3c3073254",
+          "uuid": "1f5bd206-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/declaration-de-confidentialite",
+          "urlHash": "9df92675d58dc852ee1bb066266d97b2eda56f0e",
+          "uuid": "9df92675-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/cookie-policy",
+          "urlHash": "90ca235a59cf6842fc74025924d45d0aed243bf6",
+          "uuid": "90ca235a-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/politique-de-cookie",
+          "urlHash": "bc67e9e2fe8db143c0221443e6b0c54e7556b451",
+          "uuid": "bc67e9e2-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "source": "Hero",
+      "target": "Hero (hero7)",
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/terms-of-use",
+          "urlHash": "9a8151b01b0dcedb56266d0369be5b088fd7f0f5",
+          "uuid": "9a8151b0-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/conditions-dutilisation",
+          "urlHash": "af919b8735244067ee1b19720b9e5bf070aac418",
+          "uuid": "af919b87-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 8,
+      "source": "Embed",
+      "target": "Embed (embedSocial8)",
+      "key": "embedSocial8",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+          "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+          "uuid": "19122a88-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+          "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+          "uuid": "8ad1c507-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "source": "Hero",
+      "target": "Hero (hero9)",
+      "key": "hero9",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-03-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-01-517a94db4be9e28b45ddc57a88330ab3a851dd0d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-01-517a94db4be9e28b45ddc57a88330ab3a851dd0d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 11,
+      "source": "Embed",
+      "target": "Embed (embedVideo11)",
+      "key": "embedVideo11",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/credits-photographiques",
+          "urlHash": "986d882cc4f39fc6db115d164aa52b8994273439",
+          "uuid": "986d882c-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/credits-photographiques",
+          "urlHash": "ddc4904bae40a8beaa05e28525c8d88a02b7f3c3",
+          "uuid": "ddc4904b-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 12,
+      "source": "Table (bordered)",
+      "target": "Table (bordered, tableBordered12)",
+      "key": "tableBordered12",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-02-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-02-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en",
+          "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+          "uuid": "7d2033e6-02-4364f5a69b7374707d3a56c844d5132396e49111",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/",
+          "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+          "uuid": "8dd95a42-02-4364f5a69b7374707d3a56c844d5132396e49111",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 14,
+      "source": "Hero",
+      "target": "Hero (hero14)",
+      "key": "hero14",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr",
+          "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+          "uuid": "ca147206-02-4364f5a69b7374707d3a56c844d5132396e49111",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-13-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-13-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "source": "Hero",
+      "target": "Hero (hero16)",
+      "key": "hero16",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 17,
+      "source": "Embed",
+      "target": "Embed (embedVideo17)",
+      "key": "embedVideo17",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-07-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 18,
+      "source": "Embed",
+      "target": "Embed (embedSocial18)",
+      "key": "embedSocial18",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr",
+          "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+          "uuid": "ca147206-00-b821ec68cd7aa037e61949ba7655968a1160027b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "source": "Hero",
+      "target": "Hero (hero19)",
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+          "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+          "uuid": "a941b433-03-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+          "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+          "uuid": "48159fbc-07-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 21,
+      "source": "Embed",
+      "target": "Embed (embedVideo21)",
+      "key": "embedVideo21",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/cookie-policy",
+          "urlHash": "90ca235a59cf6842fc74025924d45d0aed243bf6",
+          "uuid": "90ca235a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/politique-de-cookie",
+          "urlHash": "bc67e9e2fe8db143c0221443e6b0c54e7556b451",
+          "uuid": "bc67e9e2-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 22,
+      "source": "Embed",
+      "target": "Embed (embedSocial22)",
+      "key": "embedSocial22",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en",
+          "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+          "uuid": "7d2033e6-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/",
+          "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+          "uuid": "8dd95a42-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 23,
+      "source": "Embed",
+      "target": "Embed (embedVideo23)",
+      "key": "embedVideo23",
+      "instances": [
+        {
+          "url": "https://fondationsaudemarspiguet.org/en/cookie-policy",
+          "urlHash": "90ca235a59cf6842fc74025924d45d0aed243bf6",
+          "uuid": "90ca235a-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://fondationsaudemarspiguet.org/fr/politique-de-cookie",
+          "urlHash": "bc67e9e2fe8db143c0221443e6b0c54e7556b451",
+          "uuid": "bc67e9e2-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+      "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+      "uuid": "19122a88-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/espace-medias",
+      "urlHash": "19122a8849b6114ad9dbc87a2fd25075a59cccdf",
+      "uuid": "19122a88-03-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/privacy-notice",
+      "urlHash": "1f5bd206ee8443c50f84f1edcee1d5b3c3073254",
+      "uuid": "1f5bd206-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-04-bb7d1d99274319f19ee0172cfc087ff296edb2ee",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-05-e50e65264c96143866273b514b82da7d1e994311",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-06-e2ed3f657449a2fc47309d38911c78101ae2b742",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+      "xpath": "/html[1]/body[1]/div[7]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-09-d28b1ee33822c85c7d8aada1a268f42f08cc2922",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-10-8564abca6fea72602e0043c833220391665a80c2",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-11-13535228bab906f9a659de555e2f95621270fdad",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/page-fondations-audemars-piguet",
+      "urlHash": "48159fbc4cd30fd65b473e4b679c08adaa326039",
+      "uuid": "48159fbc-12-d281e593b5936ebff569129ffd75a8bfe60377c3",
+      "xpath": "/html[1]/body[1]/div[9]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en",
+      "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+      "uuid": "7d2033e6-01-59a097a3a37610c5d6d2bb57f457b3c0951509e9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/img[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en",
+      "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+      "uuid": "7d2033e6-03-673b1192bf50f97452eeb1ca80827e636823b70d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en",
+      "urlHash": "7d2033e6e4ec0329a408ed24999aef9832a18930",
+      "uuid": "7d2033e6-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+      "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+      "uuid": "8ad1c507-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/media-newsroom",
+      "urlHash": "8ad1c50781fc8336b688fa1a7293896cdade030d",
+      "uuid": "8ad1c507-03-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/",
+      "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+      "uuid": "8dd95a42-01-59a097a3a37610c5d6d2bb57f457b3c0951509e9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/img[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/",
+      "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+      "uuid": "8dd95a42-03-673b1192bf50f97452eeb1ca80827e636823b70d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/",
+      "urlHash": "8dd95a42213c6b1329699383c67b617fcdf612f0",
+      "uuid": "8dd95a42-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/terms-of-use",
+      "urlHash": "9a8151b01b0dcedb56266d0369be5b088fd7f0f5",
+      "uuid": "9a8151b0-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/declaration-de-confidentialite",
+      "urlHash": "9df92675d58dc852ee1bb066266d97b2eda56f0e",
+      "uuid": "9df92675-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-04-bb7d1d99274319f19ee0172cfc087ff296edb2ee",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-05-e50e65264c96143866273b514b82da7d1e994311",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-06-e2ed3f657449a2fc47309d38911c78101ae2b742",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+      "xpath": "/html[1]/body[1]/div[7]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-09-d28b1ee33822c85c7d8aada1a268f42f08cc2922",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-10-8564abca6fea72602e0043c833220391665a80c2",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-11-13535228bab906f9a659de555e2f95621270fdad",
+      "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/en/audemars-piguet-foundations-6",
+      "urlHash": "a941b4334b5a49dd98b1c5657dfc43ce2811bd2e",
+      "uuid": "a941b433-12-d281e593b5936ebff569129ffd75a8bfe60377c3",
+      "xpath": "/html[1]/body[1]/div[9]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr/conditions-dutilisation",
+      "urlHash": "af919b8735244067ee1b19720b9e5bf070aac418",
+      "uuid": "af919b87-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr",
+      "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+      "uuid": "ca147206-01-59a097a3a37610c5d6d2bb57f457b3c0951509e9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/img[1]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr",
+      "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+      "uuid": "ca147206-03-673b1192bf50f97452eeb1ca80827e636823b70d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://fondationsaudemarspiguet.org/fr",
+      "urlHash": "ca14720637ba9fec9382c91842cfa27f14e81d75",
+      "uuid": "ca147206-04-30770ddacdac9e16f2c357bacc3b44870d6782b3",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[4]"
+    }
+  ]
+}
